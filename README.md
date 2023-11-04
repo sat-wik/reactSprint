@@ -9,7 +9,7 @@ The project is meant to give you a refresher on aspects of React like props, fun
 1. Open your terminal/command prompt.
 2. Use `mkdir [NAME]` and `cd [NAME]` to set your current directory to where you want to place the project folder.
 3. Clone the project using `git clone https://github.com/sat-wik/reactSprint.git`.
-4. Navigate into the project directory using `cd gitSprint`.
+4. Navigate into the project directory using `cd reactSprint`.
 2. Switch to a new branch using `git checkout -b [YOUR FIRST NAME]`.
 3. Create a new react app (`npx create-react-app my-app-name`) in your folder. 
 4. You're good to go! Follow the instructions below now.
