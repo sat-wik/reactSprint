@@ -47,6 +47,6 @@ To submit your learning sprint, complete the following steps:
 1. Create components for Post and MainPage with the functionality described in the above sections. 
 2. Use `git branch` and making sure that it's your first name.
 3. Add your changes by using `git add .`, commit your changes using `git commit -m "MESSAGE"`, and then push your changes using `git push --set-upstream main [YOUR_BRANCH]`. 
-4. And that's it, congratulations on finishing the second learning sprint!.
+4. And that's it, congratulations on finishing the first learning sprint!.
 
 <!-- DO NOT EDIT THIS DOCUMENT! -->
